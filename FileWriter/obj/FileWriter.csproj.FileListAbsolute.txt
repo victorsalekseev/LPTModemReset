@@ -1,0 +1,12 @@
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\obj\Debug\FileWriter.exe
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\obj\Debug\FileWriter.pdb
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\bin\Release\FileWriter.exe
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\bin\Release\FileWriter.pdb
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\obj\Release\ResolveAssemblyReference.cache
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\obj\Release\FileWriter.exe
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\obj\Release\FileWriter.pdb
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\bin\Debug\FileWriter.exe
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\bin\Debug\FileWriter.pdb
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\FileWriter\obj\Debug\ResolveAssemblyReference.cache
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\bin\Release\FileWriter.exe
+F:\mdoc\Visual Studio 2005\Projects\FileWriter\bin\Release\FileWriter.pdb

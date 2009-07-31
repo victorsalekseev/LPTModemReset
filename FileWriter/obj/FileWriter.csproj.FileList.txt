@@ -1,0 +1,10 @@
+obj\Debug\FileWriter.exe
+obj\Debug\FileWriter.pdb
+bin\Debug\FileWriter.exe
+bin\Debug\FileWriter.pdb
+obj\Debug\ResolveAssemblyReference.cache
+..\bin\Release\FileWriter.exe
+..\bin\Release\FileWriter.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FileWriter.exe
+obj\Release\FileWriter.pdb
